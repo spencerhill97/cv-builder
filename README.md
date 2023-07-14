@@ -13,7 +13,6 @@ https://spencerhill97.github.io/cv-builder/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
 
           
@@ -44,8 +43,8 @@ For deploying your website navigate [here](https://medium.com/@badreddine.boudao
     
 ## Screenshots
 
-<img src="https://github.com/spencerhill97/cv-builder/assets/113248092/967f5667-8e1d-48d1-a828-051376229b04" width="300" />
-<img src="https://github.com/spencerhill97/cv-builder/assets/113248092/0cce0e43-a454-4559-828a-3de30dadb0d6" width="300" />
+<img src="https://github.com/spencerhill97/cv-builder/assets/113248092/967f5667-8e1d-48d1-a828-051376229b04" width="600" />
+<img src="https://github.com/spencerhill97/cv-builder/assets/113248092/0cce0e43-a454-4559-828a-3de30dadb0d6" width="600" />
 
 
 ## Acknowledgements
